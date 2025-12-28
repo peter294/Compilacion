@@ -1,0 +1,9 @@
+#Archivos auxiliares Latex 
+
+*.aux
+*.log
+*.toc
+*.synctex.gz
+
+#PDFs (archivos compilados)
+*.pdf
