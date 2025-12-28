@@ -7,3 +7,13 @@
 
 #PDFs (archivos compilados)
 *.pdf
+
+#.mtc
+.*mtc
+.*mtc0
+.*mtc1
+.*mtc2
+.*mtc3
+.*mtc4
+.*mtc5
+.*mtc6
